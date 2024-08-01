@@ -6,4 +6,4 @@ This example:
   which inherits from 'OneOfBase<int, double, string>' and<br>
   which can store either an integer, a double or a string.
 
-* Then prints the type of the value stored in the Discriminated Union.
+* Then it prints the type of the value stored in the Discriminated Union.
